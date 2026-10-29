@@ -1,0 +1,20 @@
+Student_ID,Name,Gender,Age,Department,Attendance,Math,Science,English,Assignment,Final_Exam
+S001,Aarav Sharma,Male,20,Computer Science,92,88,91,85,90,94
+S002,Ananya Verma,Female,19,Information Technology,89,92,87,90,94,91
+S003,Rohan Gupta,Male,21,Mechanical,76,72,68,75,70,74
+S004,Diya Patel,Female,20,Electronics,95,91,94,89,92,96
+S005,Vivaan Singh,Male,22,Civil,68,61,65,70,66,64
+S006,Ishita Joshi,Female,19,Computer Science,98,96,94,97,95,98
+S007,Aditya Mehta,Male,21,Electrical,84,79,82,77,85,81
+S008,Saanvi Shah,Female,20,Information Technology,91,88,90,93,89,92
+S009,Arjun Kapoor,Male,23,Mechanical,73,67,71,69,74,70
+S010,Myra Jain,Female,19,Computer Science,96,94,92,95,97,96
+S010,Myra Jain,Female,19,Computer Science,96,94,92,95,97,96
+S009,Arjun Kapoor,Male,23,Mechanical,73,67,71,69,74,70
+S010,Myra Jain,Female,19,Computer Science,96,94,92,95,97,96
+S010,Myra Jain,Female,19,Computer Science,96,94,92,95,97,96
+S003,Rohan Gupta,Male,21,Mechanical,76,72,68,75,70,74
+S001,Aarav Sharma,Male,20,Computer Science,92,88,91,85,90,94
+S003,Rohan Gupta,Male,21,Mechanical,76,72,68,75,70,74
+S001,Aarav Sharma,Male,20,Computer Science,92,88,91,85,90,94
+S002,Ananya Verma,Female,19,Information Technology,89,92,87,90,94,91

@@ -1,0 +1,101 @@
+,Student_ID,Name,Gender,Age,Department,Attendance,Math,Science,English,Assignment,Final_Exam
+0,S001,Aarav Sharma,Male,20,Computer Science,92.0,88.0,91.0,85.0,90.0,
+1,S002,Ananya Verma,Female,19,Information Technology,89.0,92.0,87.0,90.0,94.0,91.0
+2,S003,Rohan Gupta,Male,21,Mechanical,76.0,72.0,68.0,75.0,70.0,74.0
+3,S004,Diya Patel,Female,20,Electronics,95.0,91.0,94.0,89.0,92.0,96.0
+4,S005,Vivaan Singh,Male,22,Civil,68.0,61.0,65.0,70.0,66.0,64.0
+5,S006,Ishita Joshi,Female,19,Computer Science,98.0,96.0,94.0,97.0,95.0,98.0
+6,S007,Aditya Mehta,Male,21,Electrical,84.0,79.0,82.0,77.0,85.0,81.0
+7,S008,Saanvi Shah,Female,20,Information Technology,91.0,88.0,90.0,93.0,89.0,92.0
+8,S009,Arjun Kapoor,Male,23,Mechanical,73.0,67.0,71.0,69.0,74.0,70.0
+9,S010,Myra Jain,Female,19,Computer Science,96.0,94.0,92.0,95.0,97.0,96.0
+10,S011,Kabir Malhotra,Male,20,Civil,81.0,76.0,79.0,73.0,80.0,78.0
+11,S012,Siya Agarwal,Female,21,Electronics,87.0,84.0,88.0,82.0,86.0,89.0
+12,S013,Reyansh Bansal,Male,19,Electrical,90.0,85.0,87.0,89.0,91.0,88.0
+13,S014,Anika Rao,Female,20,Computer Science,93.0,91.0,89.0,94.0,92.0,95.0
+14,S015,Devansh Soni,Male,22,Information Technology,78.0,74.0,76.0,,79.0,75.0
+15,S016,Avni Mishra,Female,19,Mechanical,85.0,82.0,80.0,84.0,86.0,83.0
+16,S017,Kian Choudhary,Male,21,Civil,65.0,58.0,63.0,61.0,67.0,60.0
+17,S018,Meera Nair,Female,20,Electronics,94.0,90.0,93.0,91.0,95.0,94.0
+18,S019,Krish Yadav,Male,22,Electrical,88.0,83.0,85.0,81.0,87.0,86.0
+19,S020,Tara Iyer,Female,19,Computer Science,97.0,95.0,96.0,94.0,98.0,97.0
+20,S021,Rudra Kumar,Male,20,Mechanical,72.0,69.0,65.0,70.0,68.0,73.0
+21,S022,Kiara Kapoor,Female,21,Information Technology,90.0,87.0,91.0,89.0,92.0,90.0
+22,S023,Arnav Dubey,Male,19,Civil,79.0,75.0,72.0,77.0,80.0,76.0
+23,S024,Riya Saxena,Female,20,Electronics,86.0,83.0,85.0,88.0,84.0,87.0
+24,S025,Ayaan Khan,Male,22,Computer Science,93.0,89.0,92.0,,91.0,94.0
+25,S026,Pari Srivastava,Female,19,Electrical,82.0,78.0,81.0,80.0,83.0,79.0
+26,S027,Harsh Vyas,Male,21,Mechanical,74.0,70.0,73.0,68.0,72.0,71.0
+27,S028,Navya Tiwari,Female,20,Civil,89.0,86.0,84.0,88.0,90.0,87.0
+28,S029,Veer Rajput,Male,23,Electronics,67.0,62.0,59.0,65.0,63.0,61.0
+29,S030,Ahana Desai,Female,19,Computer Science,96.0,93.0,95.0,92.0,97.0,94.0
+30,S031,Yash Thakur,Male,20,Information Technology,85.0,81.0,83.0,79.0,86.0,84.0
+31,S032,Shanaya Bhat,Female,21,Electrical,91.0,89.0,86.0,90.0,,88.0
+32,S033,Manav Joshi,Male,22,Civil,77.0,73.0,69.0,75.0,71.0,74.0
+33,S034,Aadhya Menon,Female,20,Mechanical,88.0,85.0,87.0,84.0,89.0,86.0
+34,S035,Samarth Jain,Male,19,Computer Science,94.0,90.0,93.0,91.0,95.0,92.0
+35,S036,Prisha Goyal,Female,21,Information Technology,92.0,89.0,91.0,,93.0,94.0
+36,S037,Vihaan Sethi,Male,20,Electronics,80.0,76.0,78.0,74.0,82.0,79.0
+37,S038,Anvi Kapoor,Female,19,Civil,84.0,81.0,79.0,83.0,85.0,82.0
+38,S039,Dhruv Sharma,Male,22,Electrical,69.0,,67.0,62.0,70.0,65.0
+39,S040,Ira Gupta,Female,20,Computer Science,99.0,97.0,98.0,96.0,99.0,98.0
+40,S041,Neil Arora,Male,21,Mechanical,83.0,80.0,77.0,81.0,84.0,79.0
+41,S042,Alisha Khan,Female,19,Information Technology,95.0,92.0,94.0,90.0,96.0,95.0
+42,S043,Ayush Patel,Male,20,Civil,71.0,66.0,68.0,64.0,73.0,69.0
+43,S044,Anaya Singh,Female,21,Electronics,89.0,,88.0,87.0,91.0,90.0
+44,S045,Ritvik Sharma,Male,22,Computer Science,87.0,84.0,86.0,82.0,89.0,85.0
+45,S046,Shreya Mehta,Female,20,Electrical,93.0,90.0,92.0,88.0,94.0,91.0
+46,S047,Om Prakash,Male,19,Mechanical,75.0,71.0,69.0,73.0,76.0,72.0
+47,S048,Navika Joshi,Female,21,Civil,80.0,77.0,74.0,79.0,82.0,78.0
+48,S049,Parth Agarwal,Male,20,Information Technology,90.0,86.0,89.0,,91.0,88.0
+49,S050,Siya Sharma,Female,19,Computer Science,96.0,94.0,95.0,93.0,97.0,96.0
+50,S051,Rajveer Singh,Male,22,Electronics,78.0,73.0,76.0,71.0,80.0,75.0
+51,S052,Mehak Gupta,Female,20,Electrical,85.0,82.0,84.0,80.0,,83.0
+52,S053,Dev Patel,Male,21,Civil,66.0,60.0,64.0,62.0,68.0,59.0
+53,S054,Kiara Sharma,Female,19,Mechanical,92.0,89.0,91.0,87.0,94.0,90.0
+54,S055,Advik Rao,Male,20,Computer Science,88.0,85.0,87.0,83.0,90.0,86.0
+55,S056,Navya Jain,Female,21,Information Technology,,91.0,93.0,92.0,95.0,94.0
+56,S057,Armaan Khan,Male,23,Electrical,70.0,65.0,61.0,68.0,67.0,63.0
+57,S058,Reva Shah,Female,20,Electronics,87.0,84.0,86.0,82.0,89.0,88.0
+58,S059,Shivansh Yadav,Male,19,Mechanical,79.0,75.0,72.0,77.0,81.0,74.0
+59,S060,Myra Patel,Female,22,Civil,90.0,88.0,85.0,89.0,92.0,
+60,S061,Ansh Verma,Male,20,Computer Science,91.0,89.0,92.0,86.0,94.0,90.0
+61,S062,Trisha Nair,Female,19,Information Technology,93.0,90.0,91.0,94.0,92.0,95.0
+62,S063,Lakshya Gupta,Male,21,Electronics,82.0,78.0,80.0,76.0,84.0,81.0
+63,S064,Ishani Rao,Female,20,Electrical,86.0,83.0,,81.0,88.0,84.0
+64,S065,Reyansh Singh,Male,22,Civil,74.0,68.0,71.0,70.0,73.0,69.0
+65,S066,Anushka Jain,Female,19,Mechanical,89.0,86.0,88.0,85.0,91.0,87.0
+66,S067,Shlok Mehta,Male,20,Computer Science,95.0,92.0,94.0,90.0,96.0,93.0
+67,S068,Diya Sharma,Female,21,Information Technology,97.0,,96.0,94.0,98.0,97.0
+68,S069,Kartik Verma,Male,23,Electrical,68.0,62.0,65.0,60.0,69.0,64.0
+69,S070,Aanya Gupta,Female,20,Electronics,91.0,88.0,90.0,92.0,93.0,89.0
+70,S071,Shreyansh Patel,Male,19,Civil,83.0,79.0,77.0,81.0,85.0,80.0
+71,S072,Avika Singh,Female,21,Computer Science,98.0,96.0,97.0,95.0,99.0,98.0
+72,S073,Manan Shah,Male,20,Mechanical,76.0,72.0,70.0,74.0,,73.0
+73,S074,Kiara Mehta,Female,19,Information Technology,88.0,85.0,87.0,83.0,90.0,86.0
+74,S075,Aryan Kapoor,Male,22,Electronics,84.0,80.0,82.0,79.0,86.0,81.0
+75,S076,Samaira Joshi,Female,20,Electrical,92.0,89.0,91.0,88.0,,90.0
+76,S077,Devansh Gupta,Male,21,Civil,72.0,67.0,69.0,65.0,74.0,68.0
+77,S078,Anvi Sharma,Female,19,Mechanical,90.0,87.0,89.0,86.0,92.0,
+78,S079,Harshit Jain,Male,20,Computer Science,86.0,82.0,85.0,80.0,88.0,84.0
+79,S080,Riya Verma,Female,21,Information Technology,94.0,91.0,93.0,89.0,96.0,92.0
+80,S081,Abhinav Singh,Male,22,Electronics,79.0,75.0,73.0,77.0,,76.0
+81,S082,Aarohi Patel,Female,20,Electrical,87.0,84.0,86.0,82.0,89.0,85.0
+82,S083,Krishna Sharma,Male,19,Civil,64.0,59.0,61.0,57.0,,62.0
+83,S084,Anushka Verma,Female,21,Computer Science,99.0,97.0,96.0,98.0,99.0,97.0
+84,S085,Aditya Gupta,Male,20,Mechanical,81.0,77.0,79.0,75.0,83.0,80.0
+85,S086,Myra Singh,Female,19,Information Technology,93.0,90.0,92.0,91.0,95.0,94.0
+86,S087,Arnav Patel,Male,22,Electronics,85.0,81.0,84.0,80.0,87.0,
+87,S088,Saanvi Sharma,Female,20,Electrical,90.0,87.0,89.0,85.0,92.0,88.0
+88,S089,Rudra Singh,Male,21,Civil,77.0,72.0,74.0,70.0,79.0,73.0
+89,S090,Anika Gupta,Female,19,Mechanical,95.0,92.0,94.0,90.0,96.0,93.0
+90,S091,Vihaan Patel,Male,20,Computer Science,,86.0,88.0,84.0,91.0,87.0
+91,S092,Meera Sharma,Female,21,Information Technology,96.0,93.0,95.0,92.0,97.0,95.0
+92,S093,Arjun Verma,Male,23,Electronics,73.0,69.0,66.0,71.0,75.0,68.0
+93,S094,Shanaya Gupta,Female,20,Electrical,88.0,85.0,87.0,83.0,,86.0
+94,S095,Reyansh Patel,Male,19,Civil,80.0,76.0,78.0,73.0,82.0,77.0
+95,S096,Avni Sharma,Female,21,Computer Science,94.0,91.0,,90.0,95.0,96.0
+96,S097,Kabir Singh,Male,20,Mechanical,71.0,65.0,68.0,63.0,72.0,67.0
+97,S098,Prisha Gupta,Female,19,Information Technology,92.0,89.0,,87.0,94.0,90.0
+98,S099,Armaan Verma,Male,22,Electronics,83.0,79.0,81.0,77.0,85.0,80.0
+99,S100,Anaya Sharma,Female,20,Computer Science,97.0,,96.0,94.0,98.0,97.0

@@ -1,0 +1,101 @@
+Student_ID,Name,Gender,Age,Department,Attendance,Math,Science,English,Assignment,Final_Exam
+S001,Aarav Sharma,Male,20,Computer Science,92,88,91,85,90,94
+S002,Ananya Verma,Female,19,Information Technology,89,92,87,90,94,91
+S003,Rohan Gupta,Male,21,Mechanical,76,72,68,75,70,74
+S004,Diya Patel,Female,20,Electronics,95,91,94,89,92,96
+S005,Vivaan Singh,Male,22,Civil,68,61,65,70,66,64
+S006,Ishita Joshi,Female,19,Computer Science,98,96,94,97,95,98
+S007,Aditya Mehta,Male,21,Electrical,84,79,82,77,85,81
+S008,Saanvi Shah,Female,20,Information Technology,91,88,90,93,89,92
+S009,Arjun Kapoor,Male,23,Mechanical,73,67,71,69,74,70
+S010,Myra Jain,Female,19,Computer Science,96,94,92,95,97,96
+S011,Kabir Malhotra,Male,20,Civil,81,76,79,73,80,78
+S012,Siya Agarwal,Female,21,Electronics,87,84,88,82,86,89
+S013,Reyansh Bansal,Male,19,Electrical,90,85,87,89,91,88
+S014,Anika Rao,Female,20,Computer Science,93,91,89,94,92,95
+S015,Devansh Soni,Male,22,Information Technology,78,74,76,72,79,75
+S016,Avni Mishra,Female,19,Mechanical,85,82,80,84,86,83
+S017,Kian Choudhary,Male,21,Civil,65,58,63,61,67,60
+S018,Meera Nair,Female,20,Electronics,94,90,93,91,95,94
+S019,Krish Yadav,Male,22,Electrical,88,83,85,81,87,86
+S020,Tara Iyer,Female,19,Computer Science,97,95,96,94,98,97
+S021,Rudra Kumar,Male,20,Mechanical,72,69,65,70,68,73
+S022,Kiara Kapoor,Female,21,Information Technology,90,87,91,89,92,90
+S023,Arnav Dubey,Male,19,Civil,79,75,72,77,80,76
+S024,Riya Saxena,Female,20,Electronics,86,83,85,88,84,87
+S025,Ayaan Khan,Male,22,Computer Science,93,89,92,87,91,94
+S026,Pari Srivastava,Female,19,Electrical,82,78,81,80,83,79
+S027,Harsh Vyas,Male,21,Mechanical,74,70,73,68,72,71
+S028,Navya Tiwari,Female,20,Civil,89,86,84,88,90,87
+S029,Veer Rajput,Male,23,Electronics,67,62,59,65,63,61
+S030,Ahana Desai,Female,19,Computer Science,96,93,95,92,97,94
+S031,Yash Thakur,Male,20,Information Technology,85,81,83,79,86,84
+S032,Shanaya Bhat,Female,21,Electrical,91,89,86,90,92,88
+S033,Manav Joshi,Male,22,Civil,77,73,69,75,71,74
+S034,Aadhya Menon,Female,20,Mechanical,88,85,87,84,89,86
+S035,Samarth Jain,Male,19,Computer Science,94,90,93,91,95,92
+S036,Prisha Goyal,Female,21,Information Technology,92,89,91,90,93,94
+S037,Vihaan Sethi,Male,20,Electronics,80,76,78,74,82,79
+S038,Anvi Kapoor,Female,19,Civil,84,81,79,83,85,82
+S039,Dhruv Sharma,Male,22,Electrical,69,64,67,62,70,65
+S040,Ira Gupta,Female,20,Computer Science,99,97,98,96,99,98
+S041,Neil Arora,Male,21,Mechanical,83,80,77,81,84,79
+S042,Alisha Khan,Female,19,Information Technology,95,92,94,90,96,95
+S043,Ayush Patel,Male,20,Civil,71,66,68,64,73,69
+S044,Anaya Singh,Female,21,Electronics,89,86,88,87,91,90
+S045,Ritvik Sharma,Male,22,Computer Science,87,84,86,82,89,85
+S046,Shreya Mehta,Female,20,Electrical,93,90,92,88,94,91
+S047,Om Prakash,Male,19,Mechanical,75,71,69,73,76,72
+S048,Navika Joshi,Female,21,Civil,80,77,74,79,82,78
+S049,Parth Agarwal,Male,20,Information Technology,90,86,89,85,91,88
+S050,Siya Sharma,Female,19,Computer Science,96,94,95,93,97,96
+S051,Rajveer Singh,Male,22,Electronics,78,73,76,71,80,75
+S052,Mehak Gupta,Female,20,Electrical,85,82,84,80,87,83
+S053,Dev Patel,Male,21,Civil,66,60,64,62,68,59
+S054,Kiara Sharma,Female,19,Mechanical,92,89,91,87,94,90
+S055,Advik Rao,Male,20,Computer Science,88,85,87,83,90,86
+S056,Navya Jain,Female,21,Information Technology,94,91,93,92,95,94
+S057,Armaan Khan,Male,23,Electrical,70,65,61,68,67,63
+S058,Reva Shah,Female,20,Electronics,87,84,86,82,89,88
+S059,Shivansh Yadav,Male,19,Mechanical,79,75,72,77,81,74
+S060,Myra Patel,Female,22,Civil,90,88,85,89,92,87
+S061,Ansh Verma,Male,20,Computer Science,91,89,92,86,94,90
+S062,Trisha Nair,Female,19,Information Technology,93,90,91,94,92,95
+S063,Lakshya Gupta,Male,21,Electronics,82,78,80,76,84,81
+S064,Ishani Rao,Female,20,Electrical,86,83,85,81,88,84
+S065,Reyansh Singh,Male,22,Civil,74,68,71,70,73,69
+S066,Anushka Jain,Female,19,Mechanical,89,86,88,85,91,87
+S067,Shlok Mehta,Male,20,Computer Science,95,92,94,90,96,93
+S068,Diya Sharma,Female,21,Information Technology,97,95,96,94,98,97
+S069,Kartik Verma,Male,23,Electrical,68,62,65,60,69,64
+S070,Aanya Gupta,Female,20,Electronics,91,88,90,92,93,89
+S071,Shreyansh Patel,Male,19,Civil,83,79,77,81,85,80
+S072,Avika Singh,Female,21,Computer Science,98,96,97,95,99,98
+S073,Manan Shah,Male,20,Mechanical,76,72,70,74,78,73
+S074,Kiara Mehta,Female,19,Information Technology,88,85,87,83,90,86
+S075,Aryan Kapoor,Male,22,Electronics,84,80,82,79,86,81
+S076,Samaira Joshi,Female,20,Electrical,92,89,91,88,94,90
+S077,Devansh Gupta,Male,21,Civil,72,67,69,65,74,68
+S078,Anvi Sharma,Female,19,Mechanical,90,87,89,86,92,88
+S079,Harshit Jain,Male,20,Computer Science,86,82,85,80,88,84
+S080,Riya Verma,Female,21,Information Technology,94,91,93,89,96,92
+S081,Abhinav Singh,Male,22,Electronics,79,75,73,77,81,76
+S082,Aarohi Patel,Female,20,Electrical,87,84,86,82,89,85
+S083,Krishna Sharma,Male,19,Civil,64,59,61,57,66,62
+S084,Anushka Verma,Female,21,Computer Science,99,97,96,98,99,97
+S085,Aditya Gupta,Male,20,Mechanical,81,77,79,75,83,80
+S086,Myra Singh,Female,19,Information Technology,93,90,92,91,95,94
+S087,Arnav Patel,Male,22,Electronics,85,81,84,80,87,83
+S088,Saanvi Sharma,Female,20,Electrical,90,87,89,85,92,88
+S089,Rudra Singh,Male,21,Civil,77,72,74,70,79,73
+S090,Anika Gupta,Female,19,Mechanical,95,92,94,90,96,93
+S091,Vihaan Patel,Male,20,Computer Science,89,86,88,84,91,87
+S092,Meera Sharma,Female,21,Information Technology,96,93,95,92,97,95
+S093,Arjun Verma,Male,23,Electronics,73,69,66,71,75,68
+S094,Shanaya Gupta,Female,20,Electrical,88,85,87,83,90,86
+S095,Reyansh Patel,Male,19,Civil,80,76,78,73,82,77
+S096,Avni Sharma,Female,21,Computer Science,94,91,93,90,95,96
+S097,Kabir Singh,Male,20,Mechanical,71,65,68,63,72,67
+S098,Prisha Gupta,Female,19,Information Technology,92,89,91,87,94,90
+S099,Armaan Verma,Male,22,Electronics,83,79,81,77,85,80
+S100,Anaya Sharma,Female,20,Computer Science,97,95,96,94,98,97
